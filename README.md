@@ -9,7 +9,7 @@ gantt
 
     
     section Serra
-    le g_antt : s1, 14-10-2022, 1w
+    Planifications des taches: s1, 14-10-2022, 1w
     Environement virtuel fonctionnel + lancement de fruit:s2, after s1  , 1w
     Epee qui dévoupe des fruits: s3, after s2, 1w
     Bombes + derniers ajustements: s4, after s3, 1w
