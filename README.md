@@ -18,7 +18,7 @@ gantt
     Ajout de particules: s3, after s2, 1w
     Bombes: s4, after s3, 1w
     Menu: s4, after s3, 1w
-    Eclaboussements des furits (Si le temps permet): s4, after s3, 1w
+    Eclaboussements des fruits (Si le temps permet): s4, after s3, 1w
     Reconnaissance de pattern (Si le temps permet): s4, after s3, 1w
 
     
