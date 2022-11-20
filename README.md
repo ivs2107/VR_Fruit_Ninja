@@ -13,7 +13,7 @@ gantt
     Recherches: s1, 14-10-2022, 1w
     Environement virtuel fonctionnel:s2, after s1  , 1w
     lancement de fruit: s2, after s1  , 1w
-    Mis en place des differnets modèles 3D: s2, after s1  , 1w
+    Mis en place des differents modèles 3D: s2, after s1  , 1w
     Epee qui découpe des fruits: s3, after s2, 1w
     Ajout de particules: s3, after s2, 1w
     Bombes: s4, after s3, 1w
